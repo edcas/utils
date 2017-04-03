@@ -1,11 +1,11 @@
-<?php  namespace Dnetix\Presenters;
+<?php  namespace Edcas\Presenters;
 
 use Exception;
 
 /**
  * Class PresenterException
- * @author Diego Calle
- * @package Dnetix\Presenters
+ * @author Eduard Castro
+ * @package Edcas\Presenters
  */
 class PresenterException extends Exception {
 

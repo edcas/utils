@@ -1,9 +1,9 @@
-<?php  namespace Dnetix\Presenters;
+<?php  namespace Edcas\Presenters;
 
 /**
  * Class Presenter
- * @author Diego Calle
- * @package Dnetix\Presenters
+ * @author Eduard Castro
+ * @package Edcas\Presenters
  */
 abstract class Presenter {
 

@@ -1,11 +1,11 @@
-<?php  namespace Dnetix\Dates;
+<?php  namespace Edcas\Dates;
 
 use DateTime;
 
 /**
  * Class WeekCalculator
- * @author Diego Calle
- * @package Dnetix\Dates
+ * @author Eduard Castro
+ * @package Edcas\Dates
  */
 class WeekCalculator {
 

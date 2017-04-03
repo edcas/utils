@@ -1,9 +1,9 @@
-<?php namespace Dnetix\Presenters;
+<?php namespace Edcas\Presenters;
 
 /**
  * Class PresentableTrait
- * @author Diego Calle
- * @package Dnetix\Presenters
+ * @author Eduard Castro
+ * @package Edcas\Presenters
  */
 trait PresentableTrait {
 

@@ -1,4 +1,4 @@
-<?php  namespace Dnetix\Hierachical;
+<?php  namespace Edcas\Hierachical;
 
 use Exception;
 
@@ -6,8 +6,8 @@ use Exception;
  * Class HierarchicalTree
  * A PHP implementation for Linked List
  *
- * @author Diego Calle
- * @package Dnetix\Hierachical
+ * @author Eduard Castro
+ * @package Edcas\Hierachical
  */
 class HierarchicalTree implements \Iterator {
 

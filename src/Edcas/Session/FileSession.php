@@ -1,4 +1,4 @@
-<?php  namespace Dnetix\Storage;
+<?php  namespace Edcas\Storage;
 
 /**
  * Class FileSession
@@ -19,8 +19,8 @@ function shared_session($key = null, $default = null){
     return $sharedSession->get($key, $default);
 }
  *
- * @author Diego Calle
- * @package Dnetix\Storage
+ * @author Eduard Castro
+ * @package Edcas\Storage
  */
 class FileSession {
 

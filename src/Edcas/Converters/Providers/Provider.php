@@ -1,6 +1,6 @@
 <?php
 
-namespace Dnetix\Converters\Providers;
+namespace Edcas\Converters\Providers;
 
 
 interface Provider

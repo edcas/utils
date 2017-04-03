@@ -1,6 +1,6 @@
 <?php require_once '../bootstrap.php';
 
-    $recaptcha = new \Dnetix\Captchas\ReCaptcha($config_recaptcha);
+    $recaptcha = new \Edcas\Captchas\ReCaptcha($config_recaptcha);
 
 ?>
 
@@ -8,7 +8,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Dnetix\Dates\DateHelper</title>
+    <title>Edcas\Dates\DateHelper</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
     <?= $recaptcha->getScriptTag() ?>

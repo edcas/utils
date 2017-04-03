@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Dnetix\Converters;
+namespace Edcas\Converters;
 
 
 abstract class Converter

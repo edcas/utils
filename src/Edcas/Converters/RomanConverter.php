@@ -1,6 +1,6 @@
 <?php
 
-namespace Dnetix\Converters;
+namespace Edcas\Converters;
 
 class RomanConverter extends Converter
 {

@@ -1,12 +1,12 @@
-<?php  namespace Dnetix\Files;
+<?php  namespace Edcas\Files;
 
 /**
  * Class FileWrapper
  * An utility class to use with Symfony\Component\HttpFoundation\File\UploadedFile
  * for handling basic stuff
  *
- * @author Diego Calle
- * @package Dnetix\Files
+ * @author Eduard Castro
+ * @package Edcas\Files
  */
 class FileWrapper {
 

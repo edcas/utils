@@ -1,11 +1,11 @@
-<?php  namespace Dnetix\Hierachical;
+<?php  namespace Edcas\Hierachical;
 
 /**
  * Class HierarchicalNode
  * Node class for the Hierarchical Tree
  *
- * @author Diego Calle
- * @package Dnetix\Hierachical
+ * @author Eduard Castro
+ * @package Edcas\Hierachical
  */
 class HierarchicalNode {
 

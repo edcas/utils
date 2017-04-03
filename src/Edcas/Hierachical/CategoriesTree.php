@@ -1,12 +1,12 @@
-<?php  namespace Dnetix\Hierachical;
+<?php  namespace Edcas\Hierachical;
 
 /**
  * Class CategoriesTree
  * Implements the HierarchicalTree to print it as HTML ordered list or select in this case the nodes need
  * to have a name method
  *
- * @author Diego Calle
- * @package Dnetix\Hierachical
+ * @author Eduard Castro
+ * @package Edcas\Hierachical
  */
 class CategoriesTree extends HierarchicalTree {
 

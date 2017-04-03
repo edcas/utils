@@ -1,5 +1,5 @@
 <?php
-namespace Dnetix\Files;
+namespace Edcas\Files;
 
 /**
  * Class FileCopier

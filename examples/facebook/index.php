@@ -11,7 +11,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Dnetix\Social\FacebookHandler</title>
+    <title>Edcas\Social\FacebookHandler</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
 </head>

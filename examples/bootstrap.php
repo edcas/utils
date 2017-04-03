@@ -16,8 +16,8 @@ $config_recaptcha = [
  * So you should set those in the .env file, but if you're not using Laravel or cant set the enviroment variables
  * just merge the configuration to the constructor like the one below this commented function
 function facebook($accessToken = null){
-    return new \Dnetix\Social\FacebookHandler([
-        'persistent_data_handler' => new \Dnetix\Social\FacebookLaravelSessionHandler(session()),
+    return new \Edcas\Social\FacebookHandler([
+        'persistent_data_handler' => new \Edcas\Social\FacebookLaravelSessionHandler(session()),
         'access_token' => $accessToken,
         'default_access_token' => $accessToken
     ]);
@@ -35,5 +35,5 @@ function facebook($accessToken = null){
     $config['access_token'] = $accessToken;
     $config['default_access_token'] = $accessToken;
 
-    return new \Dnetix\Social\FacebookHandler($config);
+    return new \Edcas\Social\FacebookHandler($config);
 }

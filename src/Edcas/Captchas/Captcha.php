@@ -1,6 +1,6 @@
 <?php
 
-namespace Dnetix\Captchas;
+namespace Edcas\Captchas;
 
 
 interface Captcha

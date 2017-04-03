@@ -1,6 +1,6 @@
 <?php
 
-namespace Dnetix\Dates;
+namespace Edcas\Dates;
 
 use DateTime;
 use Exception;

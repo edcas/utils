@@ -1,6 +1,6 @@
 <?php require_once '../bootstrap.php';
 
-    $recaptcha = new \Dnetix\Captchas\ReCaptcha($config_recaptcha);
+    $recaptcha = new \Edcas\Captchas\ReCaptcha($config_recaptcha);
 
     if($recaptcha->check($_POST)){
         echo "An human has been do a POST request";

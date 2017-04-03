@@ -1,5 +1,5 @@
 <?php
-namespace Dnetix\Social;
+namespace Edcas\Social;
 
 use Facebook\PersistentData\PersistentDataInterface;
 

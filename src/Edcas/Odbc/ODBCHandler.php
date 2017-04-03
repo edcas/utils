@@ -1,11 +1,11 @@
-<?php namespace Dnetix\Odbc;
+<?php namespace Edcas\Odbc;
 
 /**
  * Class ODBCHandler
  * Utility class for managing ODBC connections especially with IBS
  *
- * @author Diego Calle
- * @package Dnetix\Odbc
+ * @author Eduard Castro
+ * @package Edcas\Odbc
  */
 class ODBCHandler {
 

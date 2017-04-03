@@ -1,6 +1,6 @@
 # PHP utilities
 
-![TravisCI for dnetix/utils](https://travis-ci.org/dnetix/utils.svg)
+![TravisCI for Edcas/utils](https://travis-ci.org/Edcas/utils.svg)
 
 A set of PHP utilities
 
@@ -13,13 +13,13 @@ A set of PHP utilities
 
 From command line
 ```
-composer require dnetix/utils
+composer require Edcas/utils
 ```
 As a dependency in your project's composer.json
 ```json
 {
     "require": {
-        "dnetix/utils": "dev-master"
+        "Edcas/utils": "dev-master"
     }
 }
 ```

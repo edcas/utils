@@ -1,12 +1,12 @@
-<?php  namespace Dnetix\Barcodes;
+<?php  namespace Edcas\Barcodes;
 
 /**
  * Class Code128
  *
  * Class for the creation of strings for the generation of Code128 barcodes
  *
- * @author Diego Calle
- * @package Dnetix\Barcodes
+ * @author Eduard Castro
+ * @package Edcas\Barcodes
  */
 class Code128 {
 

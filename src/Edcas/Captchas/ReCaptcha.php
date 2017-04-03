@@ -1,4 +1,4 @@
-<?php  namespace Dnetix\Captchas;
+<?php  namespace Edcas\Captchas;
 
 /**
  * Class ReCaptcha

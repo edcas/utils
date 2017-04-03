@@ -1,4 +1,4 @@
-<?php  namespace Dnetix\Dates;
+<?php  namespace Edcas\Dates;
 
 use DateInterval;
 use DateTime;
@@ -20,8 +20,8 @@ use Exception;
  * @property-read integer $dayOfYear 0 through 365
  * @property-read integer $weekOfMonth 1 through 6
  *
- * @author Diego Calle
- * @package Dnetix\Dates
+ * @author Eduard Castro
+ * @package Edcas\Dates
  */
 class DateHelper extends DateTime
 {

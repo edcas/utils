@@ -1,6 +1,6 @@
 <?php
 
-use Dnetix\Converters\DecimalConverter;
+use Edcas\Converters\DecimalConverter;
 
 class DecimalToRomansTest extends TestCase
 {

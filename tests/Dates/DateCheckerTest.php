@@ -1,7 +1,7 @@
 <?php
 
-use Dnetix\Dates\DateHelper;
-use Dnetix\Dates\DateRangeChecker;
+use Edcas\Dates\DateHelper;
+use Edcas\Dates\DateRangeChecker;
 
 class DateCheckerTest extends TestCase
 {

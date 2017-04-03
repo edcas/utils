@@ -1,4 +1,4 @@
-<?php namespace Dnetix\Files;
+<?php namespace Edcas\Files;
 
 use Exception;
 
@@ -6,8 +6,8 @@ use Exception;
  * Class Settings
  * Stores anything in files.
  *
- * @author Diego Calle
- * @package Dnetix\Files
+ * @author Eduard Castro
+ * @package Edcas\Files
  */
 class Settings {
 

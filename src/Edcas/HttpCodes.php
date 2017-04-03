@@ -1,9 +1,9 @@
-<?php  namespace Dnetix;
+<?php  namespace Edcas;
 
 /**
  * Class HttpCodes
- * @author Diego Calle
- * @package Dnetix
+ * @author Eduard Castro
+ * @package Edcas
  */
 class HttpCodes {
 
