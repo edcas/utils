@@ -1,13 +1,13 @@
 {
-    "name": "dnetix/utils",
+    "name": "edcas/utils",
     "version": "0.4.1",
     "description": "A different set of utilities to make easier working in PHP",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Diego Calle",
-            "email": "dnetix@gmail.com"
+            "name": "Eduard Castro",
+            "email": "eduard.cas07@gmail.com"
         }
     ],
     "suggest": {
