@@ -18,7 +18,7 @@ class CSVHelper {
     }
 
     private function lookDelimiter() {
-        $options = [',', ';'];
+        $options = [',', ';', '\t'];
         $count = 0;
         $actual = 0;
         foreach ($options as $i => $char) {
